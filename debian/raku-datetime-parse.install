@@ -1,0 +1,4 @@
+lib/* usr/share/perl6/debian-sources/raku-datetime-parse/lib
+t/* usr/share/perl6/debian-sources/raku-datetime-parse/t
+META* usr/share/perl6/debian-sources/raku-datetime-parse
+README* usr/share/doc/raku-datetime-parse/
